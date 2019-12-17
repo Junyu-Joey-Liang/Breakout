@@ -1,0 +1,27 @@
+1. Vortex
+This version's perspective is completely different from all the ones before. The bricks are arranged in circles, and the ball bounces in and out of the screen,
+I think it is especially a clever design if you consider the keyboard on the old iPads. The design fits amazingly with the circular touch bar.
+
+2. Levels
+Level 1: this basic level will have basic bricks in rows (3X9). The bricks will disappear as soon as it is hit by the ball.
+Level 2: this level will add in columns of bricks that needs two hits to disappear.
+Level 3: the bricks in this level will move left and right in rows to make it harder for the player to hit, some of the blocks will need to be hit twice before it disappears. (Note: in static, this level will have the same layout as the previous one)
+
+3. Bricks
+Basic Brick (green): brick that will disappear as soon as it is hit
+Tough Brick (blue): brick that will disappear after the second hit (turn into basic brick color after first hit)
+Moving Brick (green/blue): bricks that will move sideways, take one hit (green)/two hits (blue) to disappear
+
+4. Power Ups
+Life: gives the user an extra life
+SlowDown: slow down the ball
+Extend: extend the paddle length
+
+5. Cheat Keys
+Skip to level [1-3]: skip to a level
+AddLife [L]: add additional life
+Stop [SPACE]: pause and play
+
+6. Extra
+Challenge mode in which the paddle will move in the opposite direction as you indicated. This would be counter-intuitive, and will be an additional fun challenge.
+
